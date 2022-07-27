@@ -1,0 +1,63 @@
+body{
+    background: #E9ECEF;
+}
+
+ul {
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    list-style-type: none;
+}
+
+.navbarli{
+    float: left;
+    background-color: rgb(42, 41, 41);
+    color: white;
+}
+  
+li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    color: white;
+    font-size: 1.3rem;
+}
+a:hover{
+    color: rgb(207, 204, 204);
+}
+
+h1{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 4rem;
+}
+.icerik{
+    text-align: center;
+    justify-content: center;
+}
+.urunler{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    border: 7px solid #000;
+    box-shadow: 0 0 16px -4px rgba(0, 0, 0, 0.75);
+}
+
+.urunler li{
+    margin: 15px;
+}
+
+.indexbutonhakkimizda{
+    margin-top: 30px;
+    padding-top: 7px;
+    box-shadow: 0 0 16px -4px rgba(0, 0, 0, 0.75);
+}
+
+.supplementTurleriP{
+    font-size: 1.5rem
+}
+
